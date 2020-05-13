@@ -1,0 +1,32 @@
+# Development
+ - **4/20/20** Tried to get hueplusplus library to compile with snake
+ - **4/22/20** Downloaded project from github
+ - **4/23/20** Tried to get hueplusplus library synced up with project
+  - library works, but does not link properly
+ - **4/24/20** Implemented light.cpp
+  - implemented logic in it
+  - still need to hook it up with the library
+ - **4/25/20** Worked more with logic
+  - Developed very basic UI
+  - Implemented file reading class
+ - **4/26/20** Developed morse code class
+  - Built class that tries to transmit data
+  - Morse code timestamps worked
+ - **4/28/20** Finished transmission feature of project
+ - Transmitter class now causes my_app to blink in morse code
+ - **4/29/20** Linked new library OpenCV3 to project succesfully
+ - **5/3/20** Changed Project to audio based
+ - Sound now as the primary output method
+ - Changing library to nlohmann for handling json arguements
+ - **5/4/20** Started working on sound reciever feature
+ - Added volume so that it can read
+ - **5/5/20** Finsihed Basic Project
+ - Fixed transmitter issues
+ - Got receiver to work and display text from transmitter
+ - **5/6/20** Finished Project
+ - Expanded code to include symbols
+ - Fixed Todo issues and reformatted code
+ - Finished extra files like readme and this file and tests
+
+---
+
