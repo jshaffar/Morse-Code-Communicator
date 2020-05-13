@@ -1,4 +1,4 @@
-# Unbreakable
+# Morse Code Communicator
 
 Author: Jeremy Shaffar
 Class: CS 126
